@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Instagram, Facebook, Twitter, Mail, Phone, MapPin, Heart, MessageCircle } from 'lucide-react';
-import  Logo  from "../../assets/image/perfumes/Logo.jpg"
+import  Logo  from "../../../public/perfumes/Logo.jpg"
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

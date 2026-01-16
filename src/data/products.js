@@ -4,7 +4,7 @@ const products = [
     name: "9 PM Rebel.",
     brand: "9 PM",
     category: "Masculino",
-    image: "/image/perfumes/9pm-rebel.png",
+    image: "/perfumes/9pm-rebel.png",
     description: "Las Notas de Salida son piña, manzana Granny Smith y mandarina; las Notas de Corazón son musgo de roble, vainilla y cedro; las Notas de Fondo son Madera seca, ámbar gris, caramelo y almizcle.❄️",
     stock: 10,
     decants: [
@@ -18,7 +18,7 @@ const products = [
     name: "9 PM Dive",
     brand: "9 PM",
     category: "Masculino",
-    image: "/image/perfumes/9pm-dive.png",
+    image: "/perfumes/9pm-dive.png",
     description: "Las Notas de Salida son limón (lima ácida), menta, grosellas negras y pimienta rosa; las Notas de Corazón son manzana, cedro y incienso; las Notas de Fondo son jengibre, sándalo, pachulí y jazmín.☀️",
     stock: 8,
     decants: [
@@ -32,7 +32,7 @@ const products = [
     name: "Club de Nuit Intense Man",
     brand: "Club de Nuit",
     category: "Masculino",
-    image: "/image/perfumes/Club-de-nuit-intense-man.png",
+    image: "/perfumes/Club-de-nuit-intense-man.png",
     description: "Las Notas de Salida son limón (lima ácida), piña, bergamota, grosellas negras y manzana; las Notas de Corazón son abedul, jazmín y rosa; las Notas de Fondo son almizcle, ámbar gris, pachulí y vainilla.",
     stock: 12,
     decants: [
@@ -46,7 +46,7 @@ const products = [
     name: "9 PM",
     brand: "9 PM",
     category: "Masculino",
-    image: "/image/perfumes/9pm.png",
+    image: "/perfumes/9pm.png",
     description: "Las Notas de Salida son manzana, canela, lavanda silvestre y bergamota; las Notas de Corazón son flor de azahar del naranjo y lirio de los valles (muguete); las Notas de Fondo son vainilla, haba tonka, ámbar y pachulí.",
     stock: 9,
     decants: [
@@ -60,7 +60,7 @@ const products = [
     name: "Hawas for Him",
     brand: "Hawas",
     category: "Masculino",
-    image: "/image/perfumes/Hawas-for-him.png",
+    image: "/perfumes/Hawas-for-him.png",
     description: "Las Notas de Salida son manzana, bergamota, limón (lima ácida) y canela; las Notas de Corazón son notas acuosas, ciruela, flor de azahar del naranjo y cardamomo; las Notas de Fondo son ámbar gris, almizcle, pachulí y trozos de madera a la deriva.",
     stock: 7,
     decants: [
@@ -74,7 +74,7 @@ const products = [
     name: "Bharara King",
     brand: "Bharara",
     category: "Masculino",
-    image: "/image/perfumes/Bharara-king.png",
+    image: "/perfumes/Bharara-king.png",
     description: "Las Notas de Salida son naranja, bergamota y limón (lima ácida); la Nota de Corazón es notas afrutadas; las Notas de Fondo son vainilla, almizcle blanco y ámbar.",
     stock: 11,
     decants: [
@@ -88,7 +88,7 @@ const products = [
     name: "Odyssey Mandarin Sky",
     brand: "Odyssey",
     category: "Masculino",
-    image: "/image/perfumes/Odyssey-mandarin-sky.png",
+    image: "/perfumes/Odyssey-mandarin-sky.png",
     description: "Las Notas de Salida son mandarina, naranja, azafrán y salvia; las Notas de Corazón son caramelo, haba tonka y cempasúchil (tagete, clavelón); las Notas de Fondo son ambroxan, cedro y vetiver.",
     stock: 6,
     decants: [
@@ -102,7 +102,7 @@ const products = [
     name: "Amber Oud Gold Edition",
     brand: "Amber Oud",
     category: "Masculino",
-    image: "/image/perfumes/Amber-oud-gold-edition.png",
+    image: "/perfumes/Amber-oud-gold-edition.png",
     description: "Las Notas de Salida son bergamota y notas verdes; las Notas de Corazón son melón, piña, ámbar y Acuerdo goloso; las Notas de Fondo son vainilla, almizcle y notas amaderadas.",
     stock: 14,
     decants: [
@@ -116,7 +116,7 @@ const products = [
     name: "Lataffa Khamrha",
     brand: "Lataffa Khamrha",
     category: "Masculino",
-    image: "/image/perfumes/Lataffa-khamrha.png",
+    image: "/perfumes/Lataffa-khamrha.png",
     description: "Las Notas de Salida son canela, nuez moscada y bergamota; las Notas de Corazón son dátiles, praliné, nardos y Mahonial; las Notas de Fondo son vainilla, haba tonka, Amberwood, mirra, benjuí y Akigalawood.",
     stock: 14,
     decants: [
@@ -130,7 +130,7 @@ const products = [
     name: "Kenz Al Malik ",
     brand: "Kenz Al Malik ",
     category: "Masculino",
-    image: "/image/perfumes/Kenz-al-malik.png",
+    image: "/perfumes/Kenz-al-malik.png",
     description: "Las Notas de Salida son toronja (pomelo), pimienta rosa, bergamota, vetiver, notas marinas y limón (lima ácida); las Notas de Corazón son toronja (pomelo), jengibre, cedro, ládano, menta, nuez moscada y jazmín; las Notas de Fondo son Amberwood, jengibre, incienso y sándalo.",
     stock: 10,
     decants: [
@@ -144,7 +144,7 @@ const products = [
     name: "Prada Luna Rossa",
     brand: "Prada",
     category: "Masculino",
-    image: "/image/perfumes/Prada-luna-rossa.png",
+    image: "/perfumes/Prada-luna-rossa.png",
     description: "Las Notas de Salida son lavanda y naranja amarga; las Notas de Corazón son menta y esclarea; las Notas de Fondo son almizcle ambreta y ambroxan.",
     stock: 10,
     decants: [
@@ -158,7 +158,7 @@ const products = [
     name: "CK One",
     brand: "CK",
     category: "Masculino",
-    image: "/image/perfumes/Ck-one.png",
+    image: "/perfumes/Ck-one.png",
     description: "Las Notas de Salida son limón (lima ácida), notas verdes, bergamota, mandarina, piña, cardamomo y papaya; las Notas de Corazón son lirio de los valles (muguete), jazmín, violeta, rosa, nuez moscada, fresia y raíz de lirio; las Notas de Fondo son acordes verdes, almizcle, cedro, té verde, sándalo, musgo de roble y ámbar.",
     stock: 8,
     decants: [
@@ -172,7 +172,7 @@ const products = [
     name: "Tropical Vibe de Rayhaan",
     brand: "Tropical Vibe",
     category: "Unisex",
-    image: "/image/perfumes/Tropical-vibe-de-rayhaan.png",
+    image: "/perfumes/Tropical-vibe-de-rayhaan.png",
     description: "Las Notas de Salida son mango, bergamota y piña; la Nota de Corazón es coco; las Notas de Fondo son ámbar, almizcle, sándalo y vetiver.",
     stock: 12,
     decants: [
@@ -186,7 +186,7 @@ const products = [
     name: "Stallion 53 de Emper",
     brand: "Stallion 53",
     category: "Unisex",
-    image: "/image/perfumes/Satallion-53-de-emper-unisex.png",
+    image: "/perfumes/Satallion-53-de-emper-unisex.png",
     description: "Las Notas de Salida son cardamomo y violeta; las Notas de Corazón son ámbar y iris; las Notas de Fondo son sándalo, cuero, cedro de Virginia y papiro de Egipto.",
     stock: 9,
     decants: [
@@ -200,7 +200,7 @@ const products = [
     name: "Hawas Ice de Rasasi",
     brand: "Hawas",
     category: "Masculino",
-    image: "/image/perfumes/Hawas-ice-de-rasasi.png",
+    image: "/perfumes/Hawas-ice-de-rasasi.png",
     description: "Las Notas de Salida son manzana, limón italiano (lima italiana), bergamota de Sicilia y anís estrellado; las Notas de Corazón son ciruela, flor de azahar del naranjo y cardamomo; las Notas de Fondo son almizcle, ámbar, trozos de madera a la deriva y musgo.",
     stock: 7,
     decants: [
@@ -214,7 +214,7 @@ const products = [
     name: "Jean Paul Gaultier Le Beau EDT",
     brand: "Jean Paul Gaultier",
     category: "Masculino",
-    image: "/image/perfumes/Jean-paul-gualtier-le-beaut-edt.png",
+    image: "/perfumes/Jean-paul-gualtier-le-beaut-edt.png",
     description: "Notas del Perfume: Una fresca combinación de limón y coco en su salida, que se entrelaza con las notas de corazón de vetiver y madera de cedro.",
     stock: 11,
     decants: [
@@ -228,7 +228,7 @@ const products = [
     name: "Jean Paul Gaultier Le Male elixir Parfum",
     brand: "Jean Paul Gaultier",
     category: "Masculino",
-    image: "/image/perfumes/Jean-paul-gualtier-le-male.png",
+    image: "/perfumes/Jean-paul-gualtier-le-male.png",
     description: "Notas del Perfume: Este cautivador elixir presenta una mezcla vibrante de notas frescas y especiadas, con un corazón de flor de azahar y un fondo de madera intensa que proporciona una estela magnética.",
     stock: 6,
     decants: [
@@ -242,7 +242,7 @@ const products = [
     name: "Scandal Pour Homme Le Parfum de Jean Paul Gaultier",
     brand: "Jean Paul Gaultie",
     category: "Masculino",
-    image: "/image/perfumes/Scandal-pour-homme.png",
+    image: "/perfumes/Scandal-pour-homme.png",
     description: "La Nota de Salida es geranio; la Nota de Corazón es haba tonka; la Nota de Fondo es sándalo.",
     stock: 14,
     decants: [

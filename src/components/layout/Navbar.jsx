@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { ShoppingBag, Menu, X, MessageCircle, ShoppingCart } from 'lucide-react';
 import { useCart } from '../../context/CartContext';
-import  Logo  from "../../assets/image/perfumes/Logo.jpg"
+import  Logo  from "../../../public/perfumes/Logo.jpg"
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
